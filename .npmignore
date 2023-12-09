@@ -1,4 +1,6 @@
-/lib
+src
+.babelrc.json
+rollup.config.*
 
 # IOS File
 .DS_Store
